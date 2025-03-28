@@ -28,9 +28,8 @@ latest_posts:
 ---
 
 I am currently pursuing a PhD in Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg/), where my research focuses on the development of trustworthy and reliable `Artificial Intelligence` (AI).
-Specifically, I investigate the testing of AI system implementations using `Software Engineering` (SE) techniques to ensure they operate as intended and can be trusted in real-world applications.
+Specifically, I investigate the testing of AI system implementations using `Software Engineering` techniques to ensure they operate as intended and can be trusted in real-world applications.
 
-In addition to my research, I serve as a Graduate Tutor and teach Software Testing, which allows me to share my knowledge and passion for this field with students.
+In addition to my research, I serve as a Graduate Tutor and teach `Software Testing`, which allows me to share my knowledge and passion for this field with students.
 With a Master’s degree in Computing and a Bachelor's degree in Computer Engineering, I have built a strong foundation in this dynamic area.
 I believe that reliable AI has the potential to transform industries and enhance lives, and I am passionate about creating systems that not only perform effectively but also adhere to ethical standards.
-I enjoy collaborating with others to turn innovative ideas into practical solutions, and I am excited to contribute to a future where AI is safe, transparent, and beneficial for everyone.
