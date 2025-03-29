@@ -26,16 +26,14 @@
       "endDate": "2020"
     }
   ],
-  "teaching": [
+  "work": [
     {
       "position": "Graduate Tutor",
       "name": "National University of Singapore",
       "url": "https://www.comp.nus.edu.sg/programmes/pg/tutorship/",
       "startDate": "2024",
       "highlights": ["Software Testing", "Knowledge Discovery and Data Mining"]
-    }
-  ],
-  "work": [
+    },
     {
       "position": "Research Assistant",
       "name": "National University of Singapore",
